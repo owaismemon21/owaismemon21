@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+# Curriculum Vitae
+-->
+## Summary
+
+* 10+ years of experience as UI/Front End Developer.
+* Experienced in HTML, CSS, JavaScript, WordPress.
