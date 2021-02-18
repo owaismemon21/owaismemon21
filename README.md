@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 ## Summary
 
-* 10+ years of experience as UI/Front End Developer.
+* 8+ years of experience as UI/Front End Developer.
 * Experienced in HTML, CSS, JavaScript, WordPress.
 
 ![<Title for your card>](https://github-readme-stats.vercel.app/api?username=owaismemon21&show_icons=true&theme=radical)
